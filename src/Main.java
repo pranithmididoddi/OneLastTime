@@ -11,5 +11,15 @@ public class Main {
         char cha='d';
         //It is int
         chap.printType(ch/cha);
+
+        //increment and decrement operators
+
+        int val=0;
+        System.out.println(val++); //0
+        System.out.println(val); //1
+        System.out.println(++val); //2
+        System.out.println(val--); //2
+        System.out.println(val); //1
+        System.out.println(--val); //0
     }
 }
