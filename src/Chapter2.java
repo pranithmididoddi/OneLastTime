@@ -1,5 +1,5 @@
 public class Chapter2 {
-
+//numeric promotion
     void printType(byte x){
         System.out.println("It is byte");
     }
